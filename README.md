@@ -39,19 +39,19 @@ $ pkg install git -y
 $ pip install lolcat
 ```
 ```
-$ git clone https://github.com/noob-hackers/grabcam
+$ git clone https://github.com/Z3R0-1337/cam-hijack
 ```
 ```
 $ ls
 ```
 ```
-$ cd grabcam
+$ cd cam-hijack
 ```
 ```
 $ ls
 ```
 ```
-$ bash grabcam.sh
+$ bash cam-hijack.sh
 ```
 to see captured images >>>
 
@@ -68,30 +68,19 @@ Now go and chek your gallery for victim image...
 * Note:- Don't delete any of the scripts included in grabcam files
 
 ### Subscribe our channel on youtube:
-https://www.youtube.com/noobhackers
+https://www.youtube.com/channel/UCUKm6p3HfQtDokw3gv--CVA
 
-### Chekout our webite:
-https://www.noob-hackers.com
 
 ## ?? ***Join***
 
-### Facebook group: 
-https://www.facebook.com/groups/1936478173310085
-
-### Telegram channel:
-https://t.me/noobhack
-
-### Facebook page:
-https://www.facebook.com/Noob-Hackers-250938565573643
-
 ### Instagram: 
-https://www.instagram.com/noobhackers352
+ https://www.instagram.com/cyb3rknight_hiros33
 
-### Pinterest:
-https://in.pinterest.com/noobhackers
+### Twitter:
+https://twitter.com/CyberknightH?s=09
 
 ### My GitHub ID link:
-https://www.github.com/noob-hackers
+https://www.github.com/Z3R0-1337
 
 ### ?? Warning
 
